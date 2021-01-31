@@ -1,3 +1,3 @@
 ### This is a nice looking Calender WebApp.
 
-### FindInstagram :- @electrifying_codes.
+### Find me Instagram :- @electrifying_codes.
