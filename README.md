@@ -1,4 +1,4 @@
-### This is a nice looking Calender WebApp.
+### This is a nice looking Calender.
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
